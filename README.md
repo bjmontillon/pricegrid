@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/html-css-grid-pEcp67sP9)
-- Live Site URL: [Add live site URL here](https://bjmontillon.github.io/pricegrid/)
+- Solution URL: [https://www.frontendmentor.io/solutions/html-css-grid-pEcp67sP9]
+- Live Site URL: [https://bjmontillon.github.io/pricegrid/git]
 
 ## My process
 
